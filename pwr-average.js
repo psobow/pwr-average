@@ -1,4 +1,4 @@
-$('td:contains("2.0")').parent().remove();
+// $('td:contains("2.0")').parent().remove(); - oceny 2.0 też wliczamy do średniej
 $('td:contains("---")').parent().remove(); 
 $('td:contains("k.cz.")').parent().remove(); 
 
